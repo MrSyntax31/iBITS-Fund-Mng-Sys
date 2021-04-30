@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\bin\Release\iBITSFundManangementSystem.exe.config
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\bin\Release\iBITSFundManangementSystem.exe
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\bin\Release\iBITSFundManangementSystem.pdb
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\bin\Release\iBITSFundManangementSystem.xml
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\bin\Release\Guna.UI2.dll
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.login.resources
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.Resources.resources
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.vbproj.CopyComplete
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.exe
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.xml
+C:\Users\HP\source\repos\iBITSFundManangementSystem\iBITSFundManangementSystem\obj\Release\iBITSFundManangementSystem.pdb
